@@ -1,5 +1,5 @@
 url: https://github.com/regrevia/dsh-chat-link-actions
-name: dsh-chat-link-actions
+name: regrevia/dsh-chat-link-actions
 category: ui
 description:
   en: "Right-click a file link in the transcript: quote it into the composer as the same reference chip a drag-drop produces, or reveal the file in the OS file manager. The menu is drawn in the app's own style, not the system one."
